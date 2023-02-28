@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "63f86eb09b2c4c0558cb94a7"
+  },
+  "todo": "Raju",
+  "isComplete": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f86fdac618fa988f00e401"
+  },
+  "todo": "Nithish",
+  "isComplete": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f86fe686fe9c4b255c0df1"
+  },
+  "todo": "Santhosh",
+  "isComplete": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f86ff17625ed4be5885ccc"
+  },
+  "todo": "Rino",
+  "isComplete": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f8700debe01923db4fa6f2"
+  },
+  "todo": "Saravana",
+  "isComplete": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f998e154d381b40d89dfab"
+  },
+  "todo": "vemlo",
+  "isComplete": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f998e554d381b40d89dfad"
+  },
+  "todo": "bhghgh",
+  "isComplete": false,
+  "__v": 0
+}]
